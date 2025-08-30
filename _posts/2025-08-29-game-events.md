@@ -13,7 +13,7 @@ We’re excited to announce our upcoming **Game Events package** for Unity! This
 
 Check out the package in action:
 
-{% include embed/youtube.html id='kJwX7HVlFsY' %}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kJwX7HVlFsY" frameborder="0" allowfullscreen></iframe>
 
 ## Key Features
 
